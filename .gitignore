@@ -1,0 +1,16 @@
+.idea
+.DS_Store
+build
+dist
+
+generated_images/**
+logs/**
+.cursor/**
+__pycache__/**
+
+*.egg-info
+*.pyc
+*.png
+*.jpg
+*.out
+*.svg

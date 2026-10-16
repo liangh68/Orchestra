@@ -1,0 +1,17 @@
+torch 
+torchvision
+transformers 
+numpy 
+accelerate 
+datasets 
+torchmetrics 
+dominate 
+clean-fid
+openai-clip
+matplotlib
+seaborn
+tensorboard
+pipdeptree
+diffusers==0.24.0
+huggingface-hub==0.25.0
+pynvml==12.0.0
